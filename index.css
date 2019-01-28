@@ -8,6 +8,13 @@ label{
 
 button{
   font-size: 30px;
+  background: blue;
+  color: white;
+}
+
+button:hover{
+  background: lightblue;
+  color: black;
 }
 
 input{
